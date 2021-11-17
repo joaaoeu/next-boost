@@ -1,3 +1,13 @@
+# WARNING ⚠️⚠️⚠️
+
+This repository is only a temporary fix for the [Issue 49](https://github.com/rjyo/next-boost/issues/49) of the original [next-boost](https://github.com/rjyo/next-boost).
+
+This merges the updated [next-boost](https://github.com/rjyo/next-boost) with the fix of the [PR 50](https://github.com/rjyo/next-boost/pull/50) from @kojiwakayama
+
+Please do not use it. This repo will be deleted as soon as the PR was merged.
+
+<hr>
+
 [![CI](https://github.com/rjyo/next-boost/workflows/CI/badge.svg)](https://github.com/rjyo/next-boost/actions) [![Coverage Status](https://coveralls.io/repos/github/rjyo/next-boost/badge.svg?branch=master&service=github)](https://coveralls.io/github/rjyo/next-boost?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/358f0b96e0b3b5cc55ab/maintainability)](https://codeclimate.com/github/rjyo/next-boost/maintainability)
 
 # next-boost
